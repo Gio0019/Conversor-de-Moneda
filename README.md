@@ -1,7 +1,11 @@
-#💱 Conversor de Monedas Profesional
+# 💱 Conversor de Monedas Profesional 
+
 Un poderoso conversor de divisas que utiliza la API de ExchangeRate-API para brindarte tasas de cambio en tiempo real. ¡Perfecto para viajeros, inversionistas y desarrolladores! 🌎
 
-##*✨ Funcionalidades Principales*
+---
+
+## *✨ Funcionalidades Principales*
+
 🔄 Conversión instantánea entre:
 
 💵 Dólar ↔ 🇦🇷 Peso argentino (USD ↔ ARS)
@@ -16,13 +20,17 @@ Un poderoso conversor de divisas que utiliza la API de ExchangeRate-API para bri
 
 ⚡ Actualización automática de tasas
 
-##*🛠 Requisitos Técnicos*
+---
+
+## *🛠 Requisitos Técnicos*
 Componente	           Versión
 ☕ Java               JDK	11+
 📚 Biblioteca Gson	   2.10.1+
 🔑 API Key	           ExchangeRate-API
 
-##*🛠️ Instalación 🛠️*
+---
+
+## *🛠️ Instalación 🛠️*
 Sigue estos pasos para ejecutar el proyecto en tu máquina local:
 
 
