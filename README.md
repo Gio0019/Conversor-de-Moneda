@@ -43,4 +43,6 @@ Sigue estos pasos para ejecutar el proyecto en tu máquina local:
    ```bash
    git clone https://github.com/Gio0019/Conversor-de-Moneda.git
 
+---
+
 ⭐ ¡Dale estrellita al repo si te gusta! ⭐
