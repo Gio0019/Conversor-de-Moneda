@@ -29,9 +29,17 @@ Componente	           Versión
 🔑 API Key	           ExchangeRate-API
 
 ---
+## Configuración
+
+1. Clona el repositorio
+2. Abre el proyecto en IntelliJ IDEA
+3. Configura la API key en la variable `API_KEY` en `ConversorApp.java`
+4. Ejecuta la aplicación
+
+---
 
 ## *🛠️ Instalación 🛠️*
 Sigue estos pasos para ejecutar el proyecto en tu máquina local:
-
+https://github.com/Gio0019/Conversor-de-Moneda.git
 
 ⭐ ¡Dale estrellita al repo si te gusta! ⭐
