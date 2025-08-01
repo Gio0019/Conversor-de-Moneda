@@ -40,6 +40,7 @@ Componente	           Versión
 
 ## *🛠️ Instalación 🛠️*
 Sigue estos pasos para ejecutar el proyecto en tu máquina local:
-https://github.com/Gio0019/Conversor-de-Moneda.git
+   ```bash
+   git clone https://github.com/Gio0019/Conversor-de-Moneda.git
 
 ⭐ ¡Dale estrellita al repo si te gusta! ⭐
